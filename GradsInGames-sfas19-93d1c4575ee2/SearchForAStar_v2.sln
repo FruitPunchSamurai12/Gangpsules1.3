@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForAStar_v2.Plugins", "SearchForAStar_v2.Plugins.csproj", "{B6EE83C3-E70C-927C-5916-6F25CDD86402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForAStar_v2", "SearchForAStar_v2.csproj", "{9D06DC4A-E412-8099-3F8B-C6B5D09FCF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6EE83C3-E70C-927C-5916-6F25CDD86402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE83C3-E70C-927C-5916-6F25CDD86402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE83C3-E70C-927C-5916-6F25CDD86402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE83C3-E70C-927C-5916-6F25CDD86402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D06DC4A-E412-8099-3F8B-C6B5D09FCF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D06DC4A-E412-8099-3F8B-C6B5D09FCF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D06DC4A-E412-8099-3F8B-C6B5D09FCF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D06DC4A-E412-8099-3F8B-C6B5D09FCF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
